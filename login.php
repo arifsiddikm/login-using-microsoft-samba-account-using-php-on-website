@@ -2,7 +2,7 @@
 // Initialize Variable
 $dnssambaorldap = "domain.com";
 $ipsambaorldapserver = "192.168.xxx.xxx";
-error_reporting(E_ALL);  
+error_reporting(E_ALL);   
 ini_set('display_errors', 'On');  
 define('DOMAIN_FQDN', $dnssambaorldap);
 define('LDAP_SERVER', $ipsambaorldapserver);
