@@ -2,7 +2,7 @@
 
 How to Login using Microsoft Samba Account using PHP? check this out!
 
-### How to use?                 
+### How to use?     XX            
 
 - Download Source Code & Move to your Linux Server
 - Open Project > Open file login.php 
