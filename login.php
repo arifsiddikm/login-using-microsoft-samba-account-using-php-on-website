@@ -1,3 +1,13 @@
+<!-- 
+Author : Arif Siddik M.
+Domisili : Cilegon, Banten 
+Web : http://arifsiddikm.com/
+Instagram : http://instagram.com/arifsiddikm/
+LinkedIn : http://linkedin.com/in/arif-siddik-muharam/
+GitHub : http://github.com/arifsiddikm/
+Saweria : http://saweria.co/arifsiddikm
+Tujuan Projek : Berfungsi untuk melakukan Login menggunakan akun yang diintegrasikan dengan LDAP/SAMBA pada Windows/Linux menggunakan PHP via Website. 
+-->
 <?php
 // Initialize Variable
 $dnssambaorldap = "domain.com";
